@@ -1,4 +1,7 @@
 
+.front{
+    color: rgba(60, 35, 19, 1);
+}
 .barraLang{
     background-color: black;
     color: rgba(243, 243, 243, 1);
@@ -28,8 +31,12 @@ li{
     width: 5em;
 }
 #lblPlac{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: rgba(60, 35, 19, 1);
     background-color: white;
-    width: 300px;
+    width: 400px;
     text-align: center;
     margin-left: 500px;
 }
@@ -43,10 +50,9 @@ li{
     text-align: center;
 }
 h1{
-    font-family: "Roboto";
-    font-size: 40px;
+    color: white;
+    font-size: 20px;
     font-weight: bold;
-    color: rgba(60, 35, 19, 1);
 }
 .links{
     font-family: "Roboto";
@@ -95,5 +101,12 @@ article{
     color: grey;
 }
 
+.hFin{
+    color: white;
+    font-weight: bold;
+}
 
+.sFin{
+    color: rgba(240, 168, 62, 1);
+}
 
