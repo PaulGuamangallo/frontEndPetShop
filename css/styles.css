@@ -1,0 +1,99 @@
+
+.barraLang{
+    background-color: black;
+    color: rgba(243, 243, 243, 1);
+}
+ul{
+    list-style-type: none;
+}
+li{
+    list-style: none;
+    text-align: right;
+}
+.txtPromo{
+    float: left;
+}
+.banner{
+    background-color: rgba(240, 168, 62, 1);
+    height: 120px;
+}
+.btn1{
+    background-color: rgba(240, 168, 62, 1);
+}
+.imgH{
+    float: left;
+}
+.contMenu{
+    float: right;
+    width: 5em;
+}
+#lblPlac{
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    margin-left: 500px;
+}
+.imgBakg{
+    background: url("../img/comidagrande.png");
+    height: 500px;
+    background-size: cover;
+    text-align: center;
+}
+.lblMid{
+    text-align: center;
+}
+h1{
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(60, 35, 19, 1);
+}
+.links{
+    font-family: "Roboto";
+    font-size: 15px;
+}
+article{
+   
+}
+.contact{   
+    text-align: center;
+    align-items: center;
+}
+.fio{
+    display:grid;
+}
+.fion{
+    display:inline;
+}
+
+.linear{
+    background-color: rgba(240, 168, 62, 1);
+    align-items: baseline;
+    height: 100px;
+}
+.imgCtc{
+   float: left;
+}
+.hCtc{
+    float: left;
+}
+.info{
+    background-color: rgba(60, 35, 19, 1);
+}
+.pFin{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.algF{
+    float: right;
+}
+.hFoo{
+    color: white;
+}
+.pFoo{
+    color: grey;
+}
+
+
+
